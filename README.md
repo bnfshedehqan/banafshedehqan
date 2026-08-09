@@ -1,17 +1,52 @@
-# Hello! 👋 I’m Banafshe Dehqan  #
-<div>
-	<br/>
-	- 👩🏻‍💻 I’m interested in computer science 
-	<br/>
-	- 🌱 I’m currently learning NodeJS
-</div>
+# Hi, I'm Banafshe 👋
 
-<br/><br/><br/>
+I'm a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
-# Main Skills #
-  <ul>
-    <li>Web developing and Fronend Develpment with React.JS, Next.JS, Typescript, TailwindCSS, Bootstrap</li>
-    <li>Backend Development with Python, Flask, Django</li>
-    <li>Database with PostgreSQL, MySQL, MongoDB</li>
-    <li>AI with Machine Learning, Deep Learning, NLP, Machine Vision</li>
-  </ul>
+Currently, I'm expanding my skills toward Full-Stack Development and AI, with a focus on building practical and scalable applications.
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+* JavaScript
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Bootstrap
+
+**Backend**
+
+* Python
+* Django
+* Flask
+* Node.js
+
+**Database**
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+**AI & Machine Learning**
+
+* Machine Learning
+* Deep Learning
+* NLP
+* Computer Vision
+
+### 🚀 What I'm Working On
+
+* Building modern web applications with React and Next.js
+* Learning backend development and API design
+* Exploring AI-powered applications
+* Improving my skills through real-world projects and open-source contributions
+
+### 📌 Featured Projects
+
+I'm currently improving my projects and building new applications focused on frontend, full-stack development, and AI.
+
+### 🤝 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/banafshe-dehqan)
+* [Portfolio](https://bnfshedehqan.github.io/)
